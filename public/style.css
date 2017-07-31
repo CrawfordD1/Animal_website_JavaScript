@@ -1,0 +1,24 @@
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
+
+.animalList{
+  list-style-type: none;
+}
+
+.animalImg{
+  border: 2px solid black;
+}
+
+html {
+  background: #ebf1f6;
+  background: -moz-linear-gradient(top, #ebf1f6 0%, #abd3ee 50%, #89c3eb 99%, #d5ebfb 100%);
+  background: -webkit-linear-gradient(top, #ebf1f6 0%,#abd3ee 50%,#89c3eb 99%,#d5ebfb 100%);
+  background: linear-gradient(to bottom, #ebf1f6 0%,#abd3ee 50%,#89c3eb 99%,#d5ebfb 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebf1f6', endColorstr='#d5ebfb',GradientType=0 );
+}
